@@ -1,0 +1,30 @@
+C:\Users\mhfrough\source\repos\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe.config
+C:\Users\mhfrough\source\repos\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe
+C:\Users\mhfrough\source\repos\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.pdb
+C:\Users\mhfrough\source\repos\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\mhfrough\source\repos\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.Form1.resources
+C:\Users\mhfrough\source\repos\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.Properties.Resources.resources
+C:\Users\mhfrough\source\repos\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.csproj.GenerateResource.cache
+C:\Users\mhfrough\source\repos\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\mhfrough\source\repos\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.exe
+C:\Users\mhfrough\source\repos\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.pdb
+C:\Users\Mohammed Ali\Downloads\Lexical-Analyzer-master\LexicalAnalyzerProject\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe.config
+C:\Users\Mohammed Ali\Downloads\Lexical-Analyzer-master\LexicalAnalyzerProject\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe
+C:\Users\Mohammed Ali\Downloads\Lexical-Analyzer-master\LexicalAnalyzerProject\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.pdb
+C:\Users\Mohammed Ali\Downloads\Lexical-Analyzer-master\LexicalAnalyzerProject\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.csprojAssemblyReference.cache
+C:\Users\Mohammed Ali\Downloads\Lexical-Analyzer-master\LexicalAnalyzerProject\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.Form1.resources
+C:\Users\Mohammed Ali\Downloads\Lexical-Analyzer-master\LexicalAnalyzerProject\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.Properties.Resources.resources
+C:\Users\Mohammed Ali\Downloads\Lexical-Analyzer-master\LexicalAnalyzerProject\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.csproj.GenerateResource.cache
+C:\Users\Mohammed Ali\Downloads\Lexical-Analyzer-master\LexicalAnalyzerProject\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Ali\Downloads\Lexical-Analyzer-master\LexicalAnalyzerProject\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.exe
+C:\Users\Mohammed Ali\Downloads\Lexical-Analyzer-master\LexicalAnalyzerProject\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.pdb
+C:\Users\Mohammed Ali\Desktop\LexicalAnalyzerProject\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe.config
+C:\Users\Mohammed Ali\Desktop\LexicalAnalyzerProject\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe
+C:\Users\Mohammed Ali\Desktop\LexicalAnalyzerProject\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.pdb
+C:\Users\Mohammed Ali\Desktop\LexicalAnalyzerProject\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.csprojAssemblyReference.cache
+C:\Users\Mohammed Ali\Desktop\LexicalAnalyzerProject\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.Form1.resources
+C:\Users\Mohammed Ali\Desktop\LexicalAnalyzerProject\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.Properties.Resources.resources
+C:\Users\Mohammed Ali\Desktop\LexicalAnalyzerProject\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.csproj.GenerateResource.cache
+C:\Users\Mohammed Ali\Desktop\LexicalAnalyzerProject\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Ali\Desktop\LexicalAnalyzerProject\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.exe
+C:\Users\Mohammed Ali\Desktop\LexicalAnalyzerProject\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.pdb
